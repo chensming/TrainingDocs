@@ -1,0 +1,18 @@
+/* 这是我自己定义的样式表 */
+
+
+/* 这里是显示文档那块 */
+.trainingdoc {
+    width: 800px;
+    position: absolute;
+    left: 20%;
+    margin: 20px 0 0 -50px
+}
+
+/* 页面下角 */
+.footer{
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
