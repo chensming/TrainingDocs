@@ -239,7 +239,7 @@
 
 
 #anniu{
-    margin: 50px 50px 10px;
+    margin: 50px 129px 10px;
     /*
         第三个数可以小一点会让它往左
         第三个数可以小一点会让它往下
@@ -252,5 +252,5 @@
 /* 把轮播图调在中间 */
 #otherApartment{
     width: 80%;
-    margin: 50px 43px 10px;
+    margin: 50px 41px 10px;
 }
