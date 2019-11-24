@@ -246,3 +246,11 @@
     */
     letter-spacing: 2px;
 }
+
+
+
+/* 把轮播图调在中间 */
+#otherApartment{
+    width: 80%;
+    margin: 50px 43px 10px;
+}
