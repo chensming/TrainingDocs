@@ -1,0 +1,19 @@
+	<div id="othertrainingdocs">
+		<div class="panel panel-default">
+			<!-- Default panel contents -->
+			<div class="panel-heading" id="other"> <span>其他部门有趣的培训资料</span></div>
+			<div class="panel-body">
+				<p style="text-align: left;">由于时间有限,我就只挑了感觉有趣的部分。PDF可直接在浏览器上打开观看，
+					无需下载，如需下载可在pdf打开的页面同时按Ctrl+S键保存即可</p>
+			</div>
+
+			<!-- List group -->
+			<ul class="list-group">
+				<li class="list-group-item" id="other1"><a href="PDFs/资源搜索与资料下载.pdf">策密部第一次培训 资源搜索与资料下载的PDF</a></li>
+				<li class="list-group-item" id="other2">...</li>
+				<li class="list-group-item" id="other3">...</li>
+				<li class="list-group-item" id="other4">...</li>
+				<li class="list-group-item" id="other5">...</li>
+			</ul>
+		</div>
+	</div> 

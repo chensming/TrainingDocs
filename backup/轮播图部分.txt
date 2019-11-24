@@ -1,0 +1,87 @@
+
+
+	<div id="demo" class="carousel slide" data-ride="carousel">
+
+		<!-- 指示符 -->
+		<ul class="carousel-indicators">
+			<li data-target="#demo" data-slide-to="0" class="active"></li>
+			<li data-target="#demo" data-slide-to="1"></li>
+			<li data-target="#demo" data-slide-to="2"></li>
+		</ul>
+
+		<!-- 轮播部门 -->
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<div id="othertrainingdocs">
+					<div class="panel panel-default">
+						<!-- Default panel contents -->
+						<div class="panel-heading" id="other"> <span>策密部有趣的培训资料</span></div>
+						<div class="panel-body">
+							<p style="text-align: left;">由于时间有限,我就只挑了感觉有趣的部分。PDF可直接在浏览器上打开观看，
+								无需下载，如需下载可在pdf打开的页面同时按Ctrl+S键保存即可</p>
+						</div>
+
+						<!-- List group -->
+						<ul class="list-group">
+							<li class="list-group-item" id="other1"><a href="PDFs/资源搜索与资料下载.pdf">第一次培训
+									资源搜索与资料下载的PDF</a></li>
+							<li class="list-group-item" id="other2">...</li>
+							<li class="list-group-item" id="other3">...</li>
+							<li class="list-group-item" id="other4">...</li>
+							<li class="list-group-item" id="other5">...</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<!-- 第二个 -->
+			<div class="carousel-item">
+				<div class="carousel-inner">
+					<div class="carousel-item active">
+						<div id="othertrainingdocsb">
+							<div class="panel panel-default">
+								<!-- Default panel contents -->
+								<div class="panel-heading" id="otherb"> <span>技术部有趣的培训资料</span></div>
+								<div class="panel-body">
+									<p style="text-align: left;">由于时间有限,我就只挑了感觉有趣的部分。PDF可直接在浏览器上打开观看，
+										无需下载，如需下载可在pdf打开的页面同时按Ctrl+S键保存即可</p>
+								</div>
+
+								<!-- List group -->
+								<ul class="list-group">
+									<li class="list-group-item" id="other1b"><a href="">...</a></li>
+									<li class="list-group-item" id="other2b">...</li>
+									<li class="list-group-item" id="other3b">...</li>
+									<li class="list-group-item" id="other4b">...</li>
+									<li class="list-group-item" id="other5b">...</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- 第三个 -->
+				<div class="carousel-item">
+					fjdkjfds
+					
+				</div>
+			</div>
+		</div>
+
+		<!-- 左右切换按钮 -->
+		<a class="carousel-control-prev" href="#demo" data-slide="prev">
+			<span class="carousel-control-prev-icon" style="color: blueviolet;">left</span>
+		</a>
+		<a class="carousel-control-next" href="#demo" data-slide="next">
+			<span class="carousel-control-next-icon" style="color: blueviolet;">right</span>
+		</a>
+
+	</div>
+
+
+
+
+
+
+
+
+

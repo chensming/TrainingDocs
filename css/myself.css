@@ -10,7 +10,7 @@
 }
 
 /* 页面下角 */
-.footer{
+.footer {
     background-color: skyblue;
     color: white;
     text-align: center;
@@ -19,7 +19,7 @@
 
 
 /* 其他部门有趣的ppt */
-#othertrainingdocs{
+#othertrainingdocs {
     /* left: 20%; */
     margin: 10px 200px;
     text-align: center;
@@ -27,44 +27,155 @@
 }
 
 
-
-#other{
-    color:#95d195;
-    background-color:  #dff0d8"
+#othertrainingdocsb {
+    /* left: 20%; */
+    margin: 10px 200px;
+    text-align: center;
+    width: 800px;
 }
 
-#other span{
+
+#othertrainingdocsc {
+    /* left: 20%; */
+    margin: 10px 200px;
+    text-align: center;
+    width: 800px;
+}
+
+
+#other {
+    color: #95d195;
+    background-color: #dff0d8"
+
+}
+
+
+#otherb {
+    color: #95d195;
+    background-color: #dff0d8"
+
+}
+
+#otherc {
+    color: #95d195;
+    background-color: #dff0d8"
+
+}
+
+#other span {
+    font-size: 20px;
+}
+
+#otherb span {
+    font-size: 20px;
+}
+
+#otherc span {
     font-size: 20px;
 }
 
 
-#other1{
+#other1 {
     color: #ffe5dd;
     background-color: #337ab7;
 }
 
-#other1 a{
+#other1b {
+    color: #ffe5dd;
+    background-color: #337ab7;
+}
+
+#other1c {
+    color: #ffe5dd;
+    background-color: #337ab7;
+}
+
+
+#other1 a {
     color: #95d195;
 }
 
 
+#other1b a {
+    color: #95d195;
+}
 
-#other2{
+#other1c a {
+    color: #95d195;
+}
+
+#other2 {
     color: #3190c0;
     background-color: #d9edf7;
 }
 
-#other3{
+#other2b {
+    color: #3190c0;
+    background-color: #d9edf7;
+}
+
+#other2c {
+    color: #3190c0;
+    background-color: #d9edf7;
+}
+
+#other3 {
     color: #97a4bb;
     background-color: #fcf8e3;
 }
 
-#other4{
+
+#other3b {
+    color: #97a4bb;
+    background-color: #fcf8e3;
+}
+
+#other3c {
+    color: #97a4bb;
+    background-color: #fcf8e3;
+}
+
+#other4 {
     color: #f2dede;
     background-color: #f2dede;
 }
 
-#other5{
+#other4b {
+    color: #f2dede;
+    background-color: #f2dede;
+}
+
+#other4c {
+    color: #f2dede;
+    background-color: #f2dede;
+}
+
+
+#other5 {
     color: white;
     background-color: #6db3f3;
+}
+
+
+#other5b {
+    color: white;
+    background-color: #6db3f3;
+}
+
+#other5c {
+    color: white;
+    background-color: #6db3f3;
+}
+
+
+
+
+
+#anniu{
+    margin: 50px 50px 10px;
+    /*
+        第三个数可以小一点会让它往左
+        第三个数可以小一点会让它往下
+    */
+    letter-spacing: 2px;
 }
