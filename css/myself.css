@@ -16,3 +16,55 @@
     text-align: center;
     padding: 10px;
 }
+
+
+/* 其他部门有趣的ppt */
+#othertrainingdocs{
+    /* left: 20%; */
+    margin: 10px 200px;
+    text-align: center;
+    width: 800px;
+}
+
+
+
+#other{
+    color:#95d195;
+    background-color:  #dff0d8"
+}
+
+#other span{
+    font-size: 20px;
+}
+
+
+#other1{
+    color: #ffe5dd;
+    background-color: #337ab7;
+}
+
+#other1 a{
+    color: #95d195;
+}
+
+
+
+#other2{
+    color: #3190c0;
+    background-color: #d9edf7;
+}
+
+#other3{
+    color: #97a4bb;
+    background-color: #fcf8e3;
+}
+
+#other4{
+    color: #f2dede;
+    background-color: #f2dede;
+}
+
+#other5{
+    color: white;
+    background-color: #6db3f3;
+}
